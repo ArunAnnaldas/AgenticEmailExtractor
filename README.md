@@ -1,7 +1,3 @@
-# AgenticEmailExtractor
-The Agentic Email Extractor is an autonomous AI workflow that reads a folder of JSON files, intelligently extracts email addresses using pattern matching, optionally validates them using a Large Language Model (LLM), and writes the clean, unique list to a text file. Built with modular agents for ing
-
-
 # 📨 Agentic Email Extractor
 
 An intelligent, agentic AI-powered tool that reads a folder of JSON files, extracts email addresses using pattern recognition, validates them using a Large Language Model (LLM), and outputs the clean list to a `.txt` file. Built using Python and LangChain.
